@@ -1,0 +1,17 @@
+bin/
+obj/
+artifacts/
+publish/
+Tools/
+.idea/
+.DS_Store
+*.user
+*.lock.json
+*.suo
+.vs/
+artifacts/
+.paket/paket.exe
+.fake/
+Packages/
+tools/
+**/appsettings.Development.json
